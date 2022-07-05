@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h4 {
+  border-radius: 50px;
+  text-align: right;
+  margin:0 150px;
+  padding: 22px;
+}
+
+p{
+  text-align: center;
+  color: red;
+  font-size: 24px;
+  padding-top: 12px;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+} 
+
+.General{
+   display: flex;
+   justify-content:center;
+    margin-top: 50px;
+}
+
+.imgg{
+  display: flex;
+  justify-content:flex-start;
+  align-items: center;
+  margin-left: 70px;
+}
+
+.teext{
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  margin-top: 125px;
+  text-align:center;
+}
